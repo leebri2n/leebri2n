@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fourth-year student of Computational Modeling and Data Analytics (CMDA) at Virginia Tech with minors in mathematics and computer science. Although "data analytics" is the well-known part of this field, my current interests are spanning and open. 
+I am a fourth-year student of Computational Modeling and Data Analytics (CMDA) at Virginia Tech with minors in mathematics and computer science! Although "data analytics" is the well-known part of this field, my current interests are spanning and open. 
 
 I take particular interests in large-scale machine learning and computation as well as data-driven modeling of large-scale dynamical systems. My other interests include data science, data pipelining, inventive and interactive data visualization, and software development.
 
