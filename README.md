@@ -8,7 +8,7 @@ I take particular interests in large-scale machine learning and computation as w
 
 --- 
 ### Experience
-So far, besides the valuable skills and theory and skills learned learned from the classroom, my experience has consisted of creating personal projects to apply such skills to. As of the summer of 2023, I have currently and proudly been interning with the Hume Center for National Security and Technology at Virginia Tech. Under the guidance of a supervisor, I have been developing a research project on the learning of various Generative Adversarial Networks applied to image data collected from public Instagram photos.
+As of the summer of 2023, I have currently and proudly been interning with the Hume Center for National Security and Technology at Virginia Tech. Under the guidance of a supervisor, I have been developing a research project on the learning of various Generative Adversarial Networks applied to image data collected from public Instagram photos.
 
 ---
 Given my interests and background, I would love to collaborate with those of similar interests to learn more and sharpen my skills critical to navigating this novel and fascinating, though challenging field.
